@@ -2,7 +2,7 @@
 
 //Set useful variables for paypal form
 $paypalURL = 'https://www.sandbox.paypal.com/cgi-bin/webscr'; //Test PayPal API URL
-$paypalID = 'raushanjha465-facilitator@gmail.com'; //Business Email
+$paypalID = 'Your Business Email'; //Business Email
 
 ?>
 <html>
